@@ -7,3 +7,7 @@ p{
     font-family: "Montserrat", sans-serif;
     font-size: 3vw;
 }
+section iframe{
+    background-color:  rgb(243, 136, 179);
+    padding: 2px;
+}
