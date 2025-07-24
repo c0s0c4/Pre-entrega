@@ -1,0 +1,8 @@
+main a{
+    font-family: "Barlow", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+    height: fit-content;
+    font-size: 4vw;
+}

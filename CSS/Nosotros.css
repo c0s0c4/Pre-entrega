@@ -1,0 +1,20 @@
+img {
+    width: 20vw;
+    background-color: rgb(243, 136, 179);;
+    padding: 2px;
+
+}
+p{
+    font-size: 3vw;
+}
+.equipo{
+    display: flex;
+    justify-content: center;
+    gap: 2vw;
+}
+h1{
+    margin-bottom: 2vw;
+}
+h2{
+    margin-bottom: 5vw;
+}

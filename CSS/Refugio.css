@@ -1,0 +1,9 @@
+main a{
+    justify-content: center;
+    background-color: rgb(244, 186, 201);
+    padding: 2px;
+}
+p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 3vw;
+}

@@ -1,0 +1,40 @@
+
+main a {
+    font-family: "Barlow", sans-serif;
+    font-size: 4vw;
+}
+.Subcategorias{
+    background-color: rgb(245, 163, 196);
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    margin-bottom: 5vw;
+}
+.Articulos{
+    display:flex;
+    justify-content: center;
+    gap: 2vw;
+}
+.Articulos img{
+    width: 10vw;
+}
+.Final{
+    background-color: rgb(240, 138, 178);
+}
+.Final section{
+    font-size: 2vw;
+}
+.Final p{
+    font-size: 2vw;
+}
+button{
+    border-radius: 10vw;
+    background-color: pink;
+}
+img{
+    background-color: rgb(243, 136, 179);;
+    padding: 2px;
+}

@@ -1,0 +1,1 @@
+En este proyecto voy a crear una maqueta de un e-commerce que vende accesorios para mascotas. Completamente descarado de mi parte subier el preproyecto a estas alturas, y si deciden no tomarlo en cuenta lo veo completamente valido. La facultad me mato este cuatrimeste, jajan't.
